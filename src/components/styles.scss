@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Martel:wght@400;800&display=swap");
+
+.full-width-image {
+  height: 250px;
+  width: 250px;
+  top: 0;
+  left: 0;
+}
+
+.image-text {
+  margin: auto;
+  padding-top: 5px;
+}
+
+.full-screen {
+  flex-direction: column;
+  margin: 1rem 1rem 0 0.5rem;
+  top: 0;
+  width: stretch;
+}
+
+.centered {
+  text-align: center;
+  margin: auto;
+}
+
+.background {
+  background-image: url("../bgnd.png");
+  background-size: cover;
+}

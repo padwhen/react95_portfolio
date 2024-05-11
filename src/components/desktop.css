@@ -1,0 +1,15 @@
+.window {
+    width: 700px;
+    min-height: 200px;
+}
+
+.window-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.h4-style {
+    margin-left: 10px;
+    margin-top: 10px;
+}
